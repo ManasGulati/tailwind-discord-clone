@@ -53,9 +53,6 @@ discord-tailwind-clone/
 │   ├── fonts/                  # Custom webfonts (gg-sans, Ginto, Ginto-Nord, Whitney)
 │   └── images/                 # SVG illustrations and favicon
 │
-├── docs/
-│   └── project-report.pdf      # Full project documentation
-│
 ├── index.html                  # Main page (single-page layout)
 ├── main.css                    # Tailwind entry point (@tailwind directives)
 ├── tailwind.config.js          # Tailwind configuration
